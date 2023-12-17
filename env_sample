@@ -1,0 +1,9 @@
+MINIO_ROOT_USER=minio
+MINIO_ROOT_PASSWORD=miniominio
+
+
+MINIO_ACCESS_KEY=minio
+MINIO_SECRET_KEY=miniominio
+MINIO_BUCKET_NAME=static
+MINIO_API=http://minio:9000
+

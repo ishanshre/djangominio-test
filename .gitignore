@@ -1,0 +1,6 @@
+/venv
+/data
+/static
+/media
+
+.env
